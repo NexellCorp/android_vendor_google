@@ -1,0 +1,1 @@
+CURR_GMS_VER := 6_0_r11
